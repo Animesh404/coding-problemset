@@ -14,3 +14,17 @@ int main()
   cout<<a+b;
   return 0;
 }
+
+//harsh rana
+#include <iostream>
+using namespace std;
+int main()
+{
+  //Initialoze two numbers a and b of type int
+  int a,b;
+  //Take values of a and b from user
+  cin>>a>>b;
+  //Print their addition
+  cout<<a+b;
+  return 0;
+}
